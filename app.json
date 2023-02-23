@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Notepad-localstoreage",
-    "slug": "Notepad-localstoreage",
+    "name": "ToDo-localstoreage",
+    "slug": "ToDo-localstoreage",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

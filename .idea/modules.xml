@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Notepad-localstoreage.iml" filepath="$PROJECT_DIR$/.idea/Notepad-localstoreage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ToDo-localstoreage.iml" filepath="$PROJECT_DIR$/.idea/ToDo-localstoreage.iml" />
     </modules>
   </component>
 </project>
